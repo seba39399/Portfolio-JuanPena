@@ -4,9 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/Portfolio-JuanPe-a",
+  basePath: "/Portfolio-JuanPena",
   env: {
-    NEXT_PUBLIC_BASE_PATH: "/Portfolio-JuanPe-a",
+    NEXT_PUBLIC_BASE_PATH: "/Portfolio-JuanPena",
   },
 };
 
